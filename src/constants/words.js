@@ -86,7 +86,7 @@ export const CHARADE_WORDS = [
 'Castle', 'Palace', 'Factory', 'Farm', 'Bridge',
 'Airport', 'Station', 'School', 'Hospital', 'Office',
 'Zoo', 'Aquarium', 'Church', 'Market', 'Restaurant',
-'Hotel', 'Warehouse', 'Playground', 'Amusement Park', 'Harbor'
+'Hotel', 'Warehouse', 'Playground', 'Amusement Park', 'Harbor',
 
 // Landmarks
 'Eiffel Tower', 'Great Wall of China', 'Pyramids of Giza', 'Statue of Liberty', 'Colosseum',
