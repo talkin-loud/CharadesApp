@@ -88,4 +88,23 @@ export const CHARADE_WORDS = [
 'Zoo', 'Aquarium', 'Church', 'Market', 'Restaurant',
 'Hotel', 'Warehouse', 'Playground', 'Amusement Park', 'Harbor'
 
+// Landmarks
+'Eiffel Tower', 'Great Wall of China', 'Pyramids of Giza', 'Statue of Liberty', 'Colosseum',
+'Taj Mahal', 'Sydney Opera House', 'Big Ben', 'Mount Everest', 'Niagara Falls',
+'Golden Gate Bridge', 'Grand Canyon', 'Stonehenge', 'Christ the Redeemer', 'Machu Picchu',
+'Leaning Tower of Pisa', 'Great Barrier Reef', 'Burj Khalifa', 'Empire State Building', 'Mount Rushmore',
+'Angel Falls', 'Uluru', 'Chichen Itza', 'Mount Fuji', 'Tower of London',
+
+// Household Chores
+'Washing Dishes', 'Vacuuming', 'Dusting', 'Mopping', 'Laundry',
+'Folding Clothes', 'Ironing Clothes', 'Taking Out Trash', 'Cleaning Windows', 'Tidying Up',
+'Feeding Pets', 'Watering Plants', 'Sweeping', 'Cooking Dinner', 'Making Bed',
+'Organizing Closet', 'Polishing Furniture', 'Cleaning Bathroom', 'Raking Leaves', 'Shoveling Snow',
+
+// Playing Musical Instruments
+'Playing Guitar', 'Playing Piano', 'Playing Violin', 'Playing Drums', 'Playing Flute',
+'Playing Saxophone', 'Playing Trumpet', 'Playing Cello', 'Playing Clarinet', 'Playing Harmonica',
+'Playing Trombone', 'Playing Banjo', 'Playing Ukulele', 'Playing Keyboard', 'Playing Maracas',
+'Playing Bass Guitar', 'Playing Accordion', 'Playing Oboe', 'Playing Recorder', 'Playing Mandolin',
+
 ];
